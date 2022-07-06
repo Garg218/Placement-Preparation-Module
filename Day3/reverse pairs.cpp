@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // brute force -- TLE
     // int reversePairs(vector<int>& nums) {
     //     int c=0;
     //     for(int i=0;i<nums.size()-1;i++)
